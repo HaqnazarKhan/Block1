@@ -15,7 +15,7 @@ The project was developed strictly following the suggested assignment workflow:
 4. Added the proof-of-work (mining) mechanism and full chain validation.
 5. Created five sample blocks with transaction data and successfully tested the tampering detection.
 6. Analysed one real Ethereum transaction and prepared the required technical report.
-7. Recorded all necessary screenshots and completed this README.
+7. Recorded all necessary screenshots.
 
 ## Prerequisites
 To run this project, you only need Python installed on your system. No external libraries or virtual environments are required, as the code exclusively uses built-in Python modules.
